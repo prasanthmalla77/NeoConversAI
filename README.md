@@ -79,4 +79,11 @@ For any questions or feedback, please reach out to [Prasanth Malla](https://gith
 
 ---
 
+
+****
+
 You can customize this template according to the specific details of your project.
+![graphqa cypher question](https://github.com/user-attachments/assets/61e1ff62-ef19-457c-877a-9b0da2c62e87)
+![review1](https://github.com/user-attachments/assets/b5e40718-c673-454d-9fbc-7946d1cdc761)
+![review](https://github.com/user-attachments/assets/5845c9a5-e20c-4e34-b741-6421669619db)
+![graphqa cypher](https://github.com/user-attachments/assets/5ebf7eed-78cc-4ded-adc8-569753a2a1d9)
